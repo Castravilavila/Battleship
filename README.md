@@ -15,9 +15,9 @@ Then the players are ttacking each other one position at a time , who first dest
 * M == ship missed
 
 
-#EXAMPLE (In reality the console is cleaned after each player changing)
+#EXAMPLE (In reality the console is cleaned after each player changing) + (* is  used only for formatting in this file)
 
-
+```
 Player 1, place your ships on the game field
 
   1 2 3 4 5 6 7 8 9 10
@@ -268,3 +268,4 @@ Player 2, it's your turn:
 You hit a ship!
 Press Enter and pass the move to another player
 ...
+```
